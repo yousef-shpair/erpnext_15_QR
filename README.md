@@ -1,1 +1,7 @@
-# erpnext_15_QR
+## Qr Code
+
+qr
+
+#### License
+
+mit
